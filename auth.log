@@ -1,0 +1,189 @@
+Feb  6 00:17:01 krabby-patty-safe-1 CRON[1072]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  6 00:17:01 krabby-patty-safe-1 CRON[1072]: pam_unix(cron:session): session closed for user root
+Feb  6 01:17:01 krabby-patty-safe-1 CRON[1129]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  6 01:17:01 krabby-patty-safe-1 CRON[1129]: pam_unix(cron:session): session closed for user root
+Feb  6 01:33:36 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session closed for user e.krabs
+Feb  6 01:34:14 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session opened for user e.krabs by (uid=0)
+Feb  6 01:34:14 krabby-patty-safe-1 systemd-logind[303]: New session 88 of user e.krabs
+Feb  6 02:03:18 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session closed for user e.krabs
+Feb  6 02:17:01 krabby-patty-safe-1 CRON[1216]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  6 02:17:01 krabby-patty-safe-1 CRON[1216]: pam_unix(cron:session): session closed for user root
+Feb  6 03:17:01 krabby-patty-safe-1 CRON[1303]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  6 03:17:02 krabby-patty-safe-1 CRON[1303]: pam_unix(cron:session): session closed for user root
+Feb  6 04:17:01 krabby-patty-safe-1 CRON[1359]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  6 04:17:01 krabby-patty-safe-1 CRON[1359]: pam_unix(cron:session): session closed for user root
+Feb  6 04:47:53 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session closed for user e.krabs
+Feb  6 05:17:01 krabby-patty-safe-1 CRON[1412]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  6 05:17:01 krabby-patty-safe-1 CRON[1412]: pam_unix(cron:session): session closed for user root
+Feb  6 06:17:01 krabby-patty-safe-1 CRON[1463]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  6 06:17:01 krabby-patty-safe-1 CRON[1463]: pam_unix(cron:session): session closed for user root
+Feb  6 06:25:01 krabby-patty-safe-1 CRON[1476]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  6 06:25:02 krabby-patty-safe-1 CRON[1476]: pam_unix(cron:session): session closed for user root
+Feb  6 12:17:01 krabby-patty-safe-1 CRON[2028]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  6 12:17:01 krabby-patty-safe-1 CRON[2028]: pam_unix(cron:session): session closed for user root
+Feb  6 13:17:01 krabby-patty-safe-1 CRON[2329]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  6 13:17:01 krabby-patty-safe-1 CRON[2329]: pam_unix(cron:session): session closed for user root
+Feb  6 14:17:01 krabby-patty-safe-1 CRON[2379]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  6 14:17:01 krabby-patty-safe-1 CRON[2379]: pam_unix(cron:session): session closed for user root
+Feb  6 15:17:01 krabby-patty-safe-1 CRON[2432]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  6 15:17:01 krabby-patty-safe-1 CRON[2432]: pam_unix(cron:session): session closed for user root
+Feb  6 15:22:21 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session opened for user e.krabs by (uid=0)
+Feb  6 15:38:54 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session closed for user e.krabs
+Feb  6 15:42:11 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session opened for user e.krabs by (uid=0)
+Feb  6 16:17:01 krabby-patty-safe-1 CRON[2490]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  6 16:17:01 krabby-patty-safe-1 CRON[2490]: pam_unix(cron:session): session closed for user root
+Feb  6 17:17:01 krabby-patty-safe-1 CRON[2542]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  6 17:17:02 krabby-patty-safe-1 CRON[2542]: pam_unix(cron:session): session closed for user root
+Feb  6 18:17:01 krabby-patty-safe-1 CRON[2642]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  6 18:17:01 krabby-patty-safe-1 CRON[2642]: pam_unix(cron:session): session closed for user root
+Feb  6 19:17:01 krabby-patty-safe-1 CRON[2694]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  6 19:17:01 krabby-patty-safe-1 CRON[2694]: pam_unix(cron:session): session closed for user root
+Feb  6 20:17:01 krabby-patty-safe-1 CRON[2750]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  6 20:17:01 krabby-patty-safe-1 CRON[2750]: pam_unix(cron:session): session closed for user root
+Feb  6 21:06:06 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session opened for user s.squarepants
+Feb  6 21:07:29 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session closed for user s.squarepants
+Feb  6 21:17:01 krabby-patty-safe-1 CRON[2815]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  6 21:17:01 krabby-patty-safe-1 CRON[2815]: pam_unix(cron:session): session closed for user root
+Feb  6 22:17:01 krabby-patty-safe-1 CRON[2868]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  6 22:17:01 krabby-patty-safe-1 CRON[2868]: pam_unix(cron:session): session closed for user root
+Feb  6 23:17:01 krabby-patty-safe-1 CRON[2938]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  6 23:17:01 krabby-patty-safe-1 CRON[2938]: pam_unix(cron:session): session closed for user root
+Feb  6 23:27:01 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session opened for user s.squarepants
+Feb  7 00:17:01 krabby-patty-safe-1 CRON[3014]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 00:17:01 krabby-patty-safe-1 CRON[3014]: pam_unix(cron:session): session closed for user root
+Feb  7 01:17:01 krabby-patty-safe-1 CRON[3067]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 01:17:01 krabby-patty-safe-1 CRON[3067]: pam_unix(cron:session): session closed for user root
+Feb  7 02:17:01 krabby-patty-safe-1 CRON[3119]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 02:17:01 krabby-patty-safe-1 CRON[3119]: pam_unix(cron:session): session closed for user root
+Feb  7 02:30:28 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session closed for user e.krabs
+Feb  7 03:17:01 krabby-patty-safe-1 CRON[3173]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 03:17:01 krabby-patty-safe-1 CRON[3173]: pam_unix(cron:session): session closed for user root
+Feb  7 04:17:01 krabby-patty-safe-1 CRON[3225]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 04:17:01 krabby-patty-safe-1 CRON[3225]: pam_unix(cron:session): session closed for user root
+Feb  7 05:17:01 krabby-patty-safe-1 CRON[3277]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 05:17:01 krabby-patty-safe-1 CRON[3277]: pam_unix(cron:session): session closed for user root
+Feb  7 06:17:01 krabby-patty-safe-1 CRON[4289]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 06:17:01 krabby-patty-safe-1 CRON[4289]: pam_unix(cron:session): session closed for user root
+Feb  7 06:25:01 krabby-patty-safe-1 CRON[4302]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 06:25:02 krabby-patty-safe-1 CRON[4302]: pam_unix(cron:session): session closed for user root
+Feb  7 07:17:01 krabby-patty-safe-1 CRON[4409]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 07:17:01 krabby-patty-safe-1 CRON[4409]: pam_unix(cron:session): session closed for user root
+Feb  7 08:17:01 krabby-patty-safe-1 CRON[4461]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 08:17:01 krabby-patty-safe-1 CRON[4461]: pam_unix(cron:session): session closed for user root
+Feb  7 09:17:01 krabby-patty-safe-1 CRON[4515]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 09:17:01 krabby-patty-safe-1 CRON[4515]: pam_unix(cron:session): session closed for user root
+Feb  7 10:17:01 krabby-patty-safe-1 CRON[4565]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 10:17:01 krabby-patty-safe-1 CRON[4565]: pam_unix(cron:session): session closed for user root
+Feb  7 11:17:01 krabby-patty-safe-1 CRON[4615]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 11:17:01 krabby-patty-safe-1 CRON[4615]: pam_unix(cron:session): session closed for user root
+Feb  7 12:17:01 krabby-patty-safe-1 CRON[4666]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 12:17:01 krabby-patty-safe-1 CRON[4666]: pam_unix(cron:session): session closed for user root
+Feb  7 13:17:01 krabby-patty-safe-1 CRON[4720]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 13:17:01 krabby-patty-safe-1 CRON[4720]: pam_unix(cron:session): session closed for user root
+Feb  7 14:17:02 krabby-patty-safe-1 CRON[5016]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 14:17:02 krabby-patty-safe-1 CRON[5016]: pam_unix(cron:session): session closed for user root
+Feb  7 15:17:01 krabby-patty-safe-1 CRON[5070]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 15:17:01 krabby-patty-safe-1 CRON[5070]: pam_unix(cron:session): session closed for user root
+Feb  7 15:38:58 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session opened for user e.krabs by (uid=0)
+Feb  7 15:40:56 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session closed for user s.squarepants
+Feb  7 15:54:32 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session opened for user e.krabs by (uid=0)
+Feb  7 16:17:01 krabby-patty-safe-1 CRON[5141]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 16:17:01 krabby-patty-safe-1 CRON[5141]: pam_unix(cron:session): session closed for user root
+Feb  7 17:16:23 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session opened for user e.krabs by (uid=0)
+Feb  7 17:17:01 krabby-patty-safe-1 CRON[5232]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 17:17:01 krabby-patty-safe-1 CRON[5232]: pam_unix(cron:session): session closed for user root
+Feb  7 17:43:50 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session closed for user e.krabs
+Feb  7 18:05:54 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session closed for user e.krabs
+Feb  7 18:17:01 krabby-patty-safe-1 CRON[5287]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 18:17:01 krabby-patty-safe-1 CRON[5287]: pam_unix(cron:session): session closed for user root
+Feb  7 18:17:53 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session opened for user e.krabs by (uid=0)
+Feb  7 19:17:01 krabby-patty-safe-1 CRON[5411]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 19:17:01 krabby-patty-safe-1 CRON[5411]: pam_unix(cron:session): session closed for user root
+Feb  7 19:31:54 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session closed for user s.squarepants
+Feb  7 19:48:41 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session closed for user e.krabs
+Feb  7 20:17:01 krabby-patty-safe-1 CRON[5719]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 20:17:01 krabby-patty-safe-1 CRON[5719]: pam_unix(cron:session): session closed for user root
+Feb  7 20:35:48 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session opened for user s.squarepants
+Feb  7 20:36:47 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session closed for user s.squarepants
+Feb  7 21:17:01 krabby-patty-safe-1 CRON[6125]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 21:17:01 krabby-patty-safe-1 CRON[6125]: pam_unix(cron:session): session closed for user root
+Feb  7 22:17:01 krabby-patty-safe-1 CRON[6263]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 22:17:01 krabby-patty-safe-1 CRON[6263]: pam_unix(cron:session): session closed for user root
+Feb  7 23:17:01 krabby-patty-safe-1 CRON[6539]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  7 23:17:01 krabby-patty-safe-1 CRON[6539]: pam_unix(cron:session): session closed for user root
+Feb  8 00:17:01 krabby-patty-safe-1 CRON[6838]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  8 00:17:01 krabby-patty-safe-1 CRON[6838]: pam_unix(cron:session): session closed for user root
+Feb  8 01:17:01 krabby-patty-safe-1 CRON[7107]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  8 01:17:01 krabby-patty-safe-1 CRON[7107]: pam_unix(cron:session): session closed for user root
+Feb  8 02:17:01 krabby-patty-safe-1 CRON[7274]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  8 02:17:01 krabby-patty-safe-1 CRON[7274]: pam_unix(cron:session): session closed for user root
+Feb  8 02:25:16 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session opened for user s.tentacles by (uid=0)
+Feb  8 03:17:01 krabby-patty-safe-1 CRON[7331]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  8 03:17:01 krabby-patty-safe-1 CRON[7331]: pam_unix(cron:session): session closed for user root
+Feb  8 04:17:01 krabby-patty-safe-1 CRON[7628]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  8 04:17:02 krabby-patty-safe-1 CRON[7628]: pam_unix(cron:session): session closed for user root
+Feb  8 04:34:20 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session closed for user s.tentacles
+Feb  8 05:17:01 krabby-patty-safe-1 CRON[7682]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  8 05:17:01 krabby-patty-safe-1 CRON[7682]: pam_unix(cron:session): session closed for user root
+Feb  8 06:17:01 krabby-patty-safe-1 CRON[7734]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  8 06:17:01 krabby-patty-safe-1 CRON[7734]: pam_unix(cron:session): session closed for user root
+Feb  8 06:25:01 krabby-patty-safe-1 CRON[8165]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  8 06:25:01 krabby-patty-safe-1 CRON[8165]: pam_unix(cron:session): session closed for user root
+Feb  8 07:17:01 krabby-patty-safe-1 CRON[8777]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  8 07:17:01 krabby-patty-safe-1 CRON[8777]: pam_unix(cron:session): session closed for user root
+Feb  8 08:17:01 krabby-patty-safe-1 CRON[8832]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  8 08:17:01 krabby-patty-safe-1 CRON[8832]: pam_unix(cron:session): session closed for user root
+Feb  8 15:37:25 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session opened for user e.krabs by (uid=0)
+Feb  8 15:50:09 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session closed for user e.krabs
+Feb  8 16:12:56 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session opened for user e.krabs by (uid=0)
+Feb  8 16:13:56 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session closed for user e.krabs
+Feb  8 16:17:01 krabby-patty-safe-1 CRON[9313]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  8 16:17:01 krabby-patty-safe-1 CRON[9313]: pam_unix(cron:session): session closed for user root
+Feb  8 16:48:23 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session opened for user e.krabs by (uid=0)
+Feb  8 16:49:23 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session closed for user e.krabs
+Feb  8 16:49:30 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session opened for user e.krabs by (uid=0)
+Feb  8 16:50:30 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session closed for user e.krabs
+Feb  8 16:58:21 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session opened for user e.krabs by (uid=0)
+Feb  8 16:59:21 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session closed for user e.krabs
+Feb  8 17:08:23 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session opened for user e.krabs by (uid=0)
+Feb  8 17:09:23 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session closed for user e.krabs
+Feb  8 17:16:28 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session opened for user e.krabs by (uid=0)
+Feb  8 17:17:01 krabby-patty-safe-1 CRON[9379]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  8 17:17:01 krabby-patty-safe-1 CRON[9379]: pam_unix(cron:session): session closed for user root
+Feb  8 17:17:27 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session closed for user e.krabs
+Feb  8 18:17:01 krabby-patty-safe-1 CRON[9458]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  8 18:17:01 krabby-patty-safe-1 CRON[9458]: pam_unix(cron:session): session closed for user root
+Feb  8 19:17:01 krabby-patty-safe-1 CRON[9517]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  8 19:17:01 krabby-patty-safe-1 CRON[9517]: pam_unix(cron:session): session closed for user root
+Feb  8 20:17:01 krabby-patty-safe-1 CRON[9572]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  8 20:17:01 krabby-patty-safe-1 CRON[9572]: pam_unix(cron:session): session closed for user root
+Feb  8 20:49:23 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session closed for user e.krabs
+Feb  8 21:14:21 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session opened for user e.krabs by (uid=0)
+Feb  8 21:14:21 krabby-patty-safe-1 systemd-logind[303]: New session 88 of user e.krabs
+Feb  8 21:17:01 krabby-patty-safe-1 CRON[9681]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  8 21:17:01 krabby-patty-safe-1 CRON[9681]: pam_unix(cron:session): session closed for user root
+Feb  8 22:17:01 krabby-patty-safe-1 CRON[9735]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  8 22:17:01 krabby-patty-safe-1 CRON[9735]: pam_unix(cron:session): session closed for user root
+Feb  8 23:17:01 krabby-patty-safe-1 CRON[9792]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  8 23:17:01 krabby-patty-safe-1 CRON[9792]: pam_unix(cron:session): session closed for user root
+Feb  9 00:17:01 krabby-patty-safe-1 CRON[9863]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  9 00:17:01 krabby-patty-safe-1 CRON[9863]: pam_unix(cron:session): session closed for user root
+Feb  9 01:17:01 krabby-patty-safe-1 CRON[9918]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  9 01:17:02 krabby-patty-safe-1 CRON[9918]: pam_unix(cron:session): session closed for user root
+Feb  9 02:17:01 krabby-patty-safe-1 CRON[9972]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  9 02:17:01 krabby-patty-safe-1 CRON[9972]: pam_unix(cron:session): session closed for user root
+Feb  9 02:56:42 krabby-patty-safe-1 sshd: pam_unix(sshd:session): session closed for user e.krabs
+Feb  9 03:17:01 krabby-patty-safe-1 CRON[10025]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  9 03:17:01 krabby-patty-safe-1 CRON[10025]: pam_unix(cron:session): session closed for user root
+Feb  9 03:47:03 krabby-patty-safe-1 sshd[10057]: Accepted password for p.star from 192.168.1.8 port 53780 ssh2
+Feb  9 03:47:03 krabby-patty-safe-1 sshd[10057]: pam_unix(sshd:session): session opened for user p.star by (uid=0)
+Feb  9 03:47:03 krabby-patty-safe-1 systemd-logind[303]: New session 88 of user p.star.
+Feb  9 03:47:29 krabby-patty-safe-1 sudo: pam_unix(sudo:session): session opened for user root by p.star(uid=0)
+Feb  9 03:47:29 krabby-patty-safe-1 sshd[10057]: pam_unix(sshd:session): session closed for user p.star
+Feb  9 03:47:29 krabby-patty-safe-1 sudo: pam_unix(sudo:session): session closed for user root
+Feb  9 03:47:39 krabby-patty-safe-1 systemd-logind[326]: New seat seat0.
+Feb  9 03:47:40 krabby-patty-safe-1 sshd[545]: Server listening on 0.0.0.0 port 22.
+Feb  9 03:47:40 krabby-patty-safe-1 sshd[545]: Server listening on :: port 22.
+Feb  9 03:47:46 krabby-patty-safe-1 login[564]: pam_unix(login:session): session opened for user p.star by LOGIN(uid=0)
+Feb  9 03:47:46 krabby-patty-safe-1 systemd-logind[326]: New session 1 of user p.star.
+Feb  9 03:47:46 krabby-patty-safe-1 systemd: pam_unix(systemd-user:session): session opened for user p.star by (uid=0)
